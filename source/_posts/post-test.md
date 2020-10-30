@@ -2,6 +2,7 @@
 title: post test
 date: 2020-10-30 15:19:30
 tags:
+categories: GitHub Blog
 ---
 
 ## 블로그 만드는 중....

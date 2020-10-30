@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog a blog
+title: 'Blog a blog'
 subtitle: ''
 description: ''
 keywords:
-author: DALRIM PARK
-language: en
+author: 'DALRIM PARK'
+language: 'en'
 timezone: 'Asia/Seoul'
 
 # URL
